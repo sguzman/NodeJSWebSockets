@@ -1,0 +1,15 @@
+{
+  "name": "ws",
+  "version": "1.0.0",
+  "description": "A simple websocket server/client",
+  "main": "ws-server.js",
+  "author": "Salvador Guzman <guzmansalv@gmail.com>",
+  "license": "Unlicense",
+  "scripts": {
+    "start": "node ./ws-server.js"
+  },
+  "private": false,
+  "dependencies": {
+    "ws": "^3.3.3"
+  }
+}
